@@ -1565,5 +1565,12 @@
     "erc20": true,
     "symbol": "STAKE",
     "decimals": 18
+  },
+  "0x80d211718f9b9ba31959a14328acd8d8c9d5382f": {
+    "name": "Palmes",
+    "logo": "PLM.png",
+    "erc20": true,
+    "symbol": "PLM",
+    "decimals": 6
   }
 }
